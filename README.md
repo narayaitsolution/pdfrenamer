@@ -7,4 +7,8 @@ automatic PDF file rename based on PDF metadata written in Windows PowerShell
 3. open Windows PowerShell in this folder and run ./pdfrenamer.ps1 (or right click pdfrenamer.ps1 and choose open with PowerShell)
 
 note :
-one can download Exiftool here https://exiftool.org
+if it's cannot downloaded because detected as virus (maybe because it's contain powershell scipt)
+1. open pdfrenamer.ps1
+2. copy it's content 
+3. paste into notepad
+4. download Exiftool from here https://exiftool.org
